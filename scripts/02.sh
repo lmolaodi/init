@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo userdel USERNAME
+sudo userdel -r -f USERNAME
