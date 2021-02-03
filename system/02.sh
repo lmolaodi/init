@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo hastname "NEW-HOSTNAME"
+sudo hostname "NEW-HOSTNAME"
