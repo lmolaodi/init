@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo fdisk -1
+sudo fdisk -l
